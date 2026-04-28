@@ -1,0 +1,19 @@
+name: IPTV Guncelleyici
+on:
+  workflow_dispatch: # Elle başlatma butonu ekler
+  schedule:
+    - cron: '0 0 * * *' # Her gece otomatik çalıştırır
+jobs:
+  run-it:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Python Calistir
+        run: python guncelle.py
+      - name: GitHub'a Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Liste yenilendi" || exit 0
+          git push
