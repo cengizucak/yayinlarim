@@ -1,19 +1,33 @@
 name: IPTV Guncelleyici
+
 on:
-  workflow_dispatch: # Elle başlatma butonu ekler
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Her gece otomatik çalıştırır
+    - cron: '0 */3 * * *' # Her 3 saatte bir otomatik çalışır
+
 jobs:
   run-it:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Python Calistir
+      - name: Kodu çek
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Bağımlılıkları Yükle
+        run: |
+          pip install selenium webdriver-manager
+
+      - name: Botu Çalıştır
         run: python guncelle.py
-      - name: GitHub'a Kaydet
+
+      - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add yayin_listesi.m3u
           git commit -m "Liste yenilendi" || exit 0
           git push
