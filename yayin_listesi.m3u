@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="Haber",CNN
-https://www.cnnturk.com/canli-yayin
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=5DWapfgsvapj5WIqyPUwhg&e=1777414905
 #EXTINF:-1 group-title="Haber",HABERTURK
-https://www.haberturk.com/canliyayin
-#EXTINF:-1 group-title="Haber",NTV
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=e3ecac3754d4a000f53bd364e2f5962c&dfp_paln=AQzzBGQEnTUDJ973HHQHXihOAvLS8GGddYxLe3y5UJKjia8gSXL4JiamK80jlP3gcGrQeBmNHzwS8i_LfqdpaiIvw4kfSu_yHr6LaM_jy5xD7WyyWC5jrjNHJxg8KSBAZzYXSmRmzNeRhuZTwQgZQTUYvqGTOxpry8LgaYh5-H_UixhwHpDs-axV8-wqNXNWgTwbVUagfcz6HM-ImDxiHMJP54fg5j623OZEudbLKj9zIWMbZsn8YE7YhGxnHT-FNfkUxaq9xY6pUsUkLQ6pbjYA4Jt7ECM8w2eMaE-jzTwpORHaEs717Q66DAe9Bl4ld79xECxY6fM2iHkeJmAAN3RKJtI6ZaaCmDe0UZypCT5RUBVLErZvwqPkCncKnwz4KctxTa35t4RW5G1ALV5wooW1HesigiFyMWBAL2Kb9Y6dbKvanYAexoJNn7DRjXP-YZk-fLstze78llGEU3OfgJeXCxu0iZG1Jweke9b0MC9rKKax-VitOwt2jTuFTMA7uKin02udds4zw8uPuouqp4PFcQQm7VuNPHlJDPFeAEK6GvnpOrmjG0RXETvvqWMhQiKe56YlwjEMIsy0hzZMrKcAAr58FNsXHDpVw_nBmBBQff5rDr6K79qkfuOJEHns0jxT3kevwy2ihPVJNpKn1hE5fCxwv77ABVOleNU5urfKuzy9Ghdnn-HvNf-R6DU5_Jl40CmGuiH7rkeNfitfT5uL2WB3vpudlzQH5zVp70_MlAIqPbIcnBawy9IUwTYtoINYsa4qfNQSY8jO09uhYY-XkXyjFJRrm3I7-oI-wzbQJNrt14u_zA1ZGixYRAo-uHWiKeNcQA1YqTNkEU4tdDLOfzrFsq5uX4cpivGhV6KoyXlqtAuHSDP34vzXm6pWOg5rPQPC9xJNIRSVad_O05EkGqsUfjR8KRJOIzppM5F6FsWzZXJ0yF7xo_6K_tjQr0oWeOtK1jpBoAgjJE79kumh1m9dPLwcNYA5mb-4xqVSsvz0tcmMnN-gxgj_pwszNgzbn1ov
+#EXTINF:-1 group-title="Haber",NTV (YENILENEMEDI)
 https://amp.tvkulesi.com/ntv
 #EXTINF:-1 group-title="Haber",TRTHABER
-https://www.trthaber.com/canli-yayin-izle.html
-#EXTINF:-1 group-title="Spor",TIVIBU SPOR
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Spor",TIVIBU SPOR (YENILENEMEDI)
 https://amp.tvkulesi.com/tivibu-spor
-#EXTINF:-1 group-title="Spor",ASPOR
+#EXTINF:-1 group-title="Spor",ASPOR (YENILENEMEDI)
 https://amp.tvkulesi.com/a-spor
-#EXTINF:-1 group-title="Spor",HT SPOR
+#EXTINF:-1 group-title="Spor",HT SPOR (YENILENEMEDI)
 https://amp.tvkulesi.com/ht-spor
 #EXTINF:-1 group-title="Genel",NOW
-https://www.nowtv.com.tr/canli-yayin
-#EXTINF:-1 group-title="Genel",TV8
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=d4F6Tmx8xGpK1FIJAn8xdQ&e=1777418364
+#EXTINF:-1 group-title="Genel",TV8 (YENILENEMEDI)
 https://amp.tvkulesi.com/tv8
-#EXTINF:-1 group-title="Genel",KANALD
+#EXTINF:-1 group-title="Genel",KANALD (YENILENEMEDI)
 https://amp.tvkulesi.com/kanal-d
-#EXTINF:-1 group-title="Genel",ATV
+#EXTINF:-1 group-title="Genel",ATV (YENILENEMEDI)
 https://amp.tvkulesi.com/atv
