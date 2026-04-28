@@ -1,3 +1,23 @@
 #EXTM3U
-#EXTINF:-1,Kanal Test
-http://test-yayin-linki.com/video.m3u8
+#EXTINF:-1 group-title="Haber",CNN
+https://www.cnnturk.com/canli-yayin
+#EXTINF:-1 group-title="Haber",HABERTURK
+https://www.haberturk.com/canliyayin
+#EXTINF:-1 group-title="Haber",NTV
+https://amp.tvkulesi.com/ntv
+#EXTINF:-1 group-title="Haber",TRTHABER
+https://www.trthaber.com/canli-yayin-izle.html
+#EXTINF:-1 group-title="Spor",TIVIBU SPOR
+https://amp.tvkulesi.com/tivibu-spor
+#EXTINF:-1 group-title="Spor",ASPOR
+https://amp.tvkulesi.com/a-spor
+#EXTINF:-1 group-title="Spor",HT SPOR
+https://amp.tvkulesi.com/ht-spor
+#EXTINF:-1 group-title="Genel",NOW
+https://www.nowtv.com.tr/canli-yayin
+#EXTINF:-1 group-title="Genel",TV8
+https://amp.tvkulesi.com/tv8
+#EXTINF:-1 group-title="Genel",KANALD
+https://amp.tvkulesi.com/kanal-d
+#EXTINF:-1 group-title="Genel",ATV
+https://amp.tvkulesi.com/atv
