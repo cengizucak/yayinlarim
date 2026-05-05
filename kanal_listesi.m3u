@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="Haber",CNN
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=vohvhRRRLYC5xTUV0881Vw&e=1778027511
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=eY34okQMrVEQvjld38nlGQ&e=1778027727
 #EXTINF:-1 group-title="Haber",HABERTURK
-https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8dzzjau9huwk&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=4f605b3cb274718a9445cd888f6d52fb&dfp_paln=AQzzBGQEp2nN1R9roWI_42xih9GIHXIGI_S6cdjsowt5tRFztxuL8yRBBREjINDFr1yNj4daoNmBTDfdPFSrD0mFWdvCsFO_8M-4vf5NcLoY7opZL6j1AEUTLpiWDfM1ZwWbB3ttFkQBMC5tPd_JBMGri-fvzDLvjv2lPXzdlxH0DWLf1zOeCNSntcO7Y2h9VBVzqMuAyYghq1jxmjVpXBMGvP_YlpyqtkzlG5A-9eIkvKcgGsfzsnFuEISbOrfRiBiM4Tf1NriFwi5kLoiMCyLcOdIj4McKR-F8xYGHpeXx2egewC82Af8IQmpZ-SXMdQ8uVh3lscCjlZ4HpWIfCO1dc40LM5LA2CduBdudrXO1ImLkWOiJ0HlwLVAPmFa2d7IR5W9v0isr1MNHrHRQ2-iqbKe1XAY4jUP3dWQDmzXzts_o270F0mtzZyF0O2JQzuly-msAj7wp-z1UvgjzQpfbn5em8dx_DyevD1uoFiEUqD-o8RtH5aEW7XECKsxrlDTaR_nF7kx5r69w6JfJjL85v_SsGAdQlfWUzh7cAGd-vJ1zFS26xPVK0lAmzdOYVXzRPtNmoK4WDMC9Ky7plV_-2N86ykuPhVPFHuJwbfNIfin4FhveIrK_FSg6kBg4n2kWlljo43pD6CEhpODk64R_wQeBtFIAODz0ZzUFXF-kDOZhgER6mBzme4MGQeX49gOKiBSjbQY-z0jo8tv4gb_QwSmMmynCrrX5yNaR2szAIezeir18VYplWW32Ho6URF35ixGU3t-LaoyyQ6ymPugCyvjXtN8j8XfMZStoaosBd2Hvq4D9QP3eiRfb27hKKmlcqXQkFzXIRE3Dw6-VOB-SgvS9enKJVr_FklYMxOWmh-MIDc2OaBdkTzXL7eGzy66XtVNCLnBooksiH1LTYAB7cRXs0pBCJuAQ-lBwxzBKvXSGgc48CpSZe5OUWQOtp93CgcnsU-1l_HTdRvRpN145Z2ArGWDXqnygMbnhc1RvXmXz0L9Qx5_4za1D-3mXkDu1DrZG7UjsElyo6A..
 #EXTINF:-1 group-title="Haber",NTV
-https://cdn501.tvkulesi.com/ntv.m3u8?tkn=1jKO76c0G9hNv-BGfgEYag&tms=1778031110&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=ntv
+https://cdn501.tvkulesi.com/ntv.m3u8?tkn=AJQVDWd7Af5EiSPwoKMlyw&tms=1778031326&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=ntv
 #EXTINF:-1 group-title="Haber",TRTHABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Spor",TIVIBU SPOR
-https://cdn900.tvkulesi.com/tivibuspor.m3u8?tkn=WygADYQ5gSHu3fAYc5eTgg&tms=1778031117&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=tivibu-spor
+https://cdn900.tvkulesi.com/tivibuspor.m3u8?tkn=rsxDQjTET7fDeTPZH7DUqA&tms=1778031330&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=tivibu-spor
 #EXTINF:-1 group-title="Spor",ASPOR
-https://cdn506.tvkulesi.com/aspor.m3u8?tkn=pMLDA3MpSEh26mv58YxuAw&tms=1778031118&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=a-spor
+https://cdn509.tvkulesi.com/aspor.m3u8?tkn=HE8RNxXR-zO-3a0_I8_6Lg&tms=1778031332&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=a-spor
 #EXTINF:-1 group-title="Spor",HT SPOR
-https://cdn508.tvkulesi.com/htspor.m3u8?tkn=puMeuuPqNEU0P-EEkjqsOQ&tms=1778031120&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=ht-spor
+https://cdn503.tvkulesi.com/htspor.m3u8?tkn=dXl0ATl8oAtVkklovunhVQ&tms=1778031334&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=ht-spor
 #EXTINF:-1 group-title="Genel",NOW
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=AZFsGByv7H52Egm-c31ejQ&e=1778031050
 #EXTINF:-1 group-title="Genel",TV8
-https://cdn504.tvkulesi.com/tv8.m3u8?tkn=a0sz5z2CwfrS8X1fIiO4PQ&tms=1778031125&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=tv8
+https://cdn506.tvkulesi.com/tv8.m3u8?tkn=DeZ0eJ0tDScfxHcR5VSKmA&tms=1778031336&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=tv8
 #EXTINF:-1 group-title="Genel",KANALD
-https://cdn501.tvkulesi.com/kanald.m3u8?tkn=0kITZ6XN2t0SJ9qEh4vmzg&tms=1778031126&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=kanal-d
+https://cdn501.tvkulesi.com/kanald.m3u8?tkn=2GWaf8zPsIUqoKpM2ydeAw&tms=1778031341&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=kanal-d
 #EXTINF:-1 group-title="Genel",ATV
-https://cdn509.tvkulesi.com/atv.m3u8?tkn=VfloN4sloAuqqL0y1oQxVQ&tms=1778031128&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=atv
+https://cdn507.tvkulesi.com/atv.m3u8?tkn=2GWaf8zPsIUqoKpM2ydeAw&tms=1778031341&hst=amp.tvkulesi.com&ip=83.249.78.19&utkn=f74601bde51766cb79028342fc7005a0&ch=atv
